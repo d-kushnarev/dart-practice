@@ -1,0 +1,4 @@
+name: dart_practice
+
+environment:
+  sdk: ^2.18.0
